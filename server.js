@@ -17,6 +17,7 @@ function sendResponse(res,err,data){
   }
 }
 
+//Used postman for testing
 
 const express= require('express');
 const mongoose= require('mongoose');
